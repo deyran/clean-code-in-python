@@ -1,7 +1,8 @@
 # Clean Code in Python
 
-## Introduction
+## Chapter 1 Introduction, Code Formatting, and Tools
 
-### The meaning of Clean Code
-### The importance of having Clean Code
-### Some exceptions
+### [Introduction](01-Introduction.md)
+### Code formatting
+### Documentation
+### Tooling
