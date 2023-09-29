@@ -1,5 +1,5 @@
-# clean-code-in-python
+# Clean Code in Python - Develop maintainable and effeciente code - Mariano Anaya
 
-# Clean Code in Python - Develop maintainable and effeciente code
+## Summary chapter by chapter
 
-# Mariano Anaya
+<img src="Clean Code in Python.jpg" />
