@@ -1,3 +1,5 @@
+# Chapter 1 Introduction, Code Formatting, and Tools
+
 # Introduction
 
 ## The meaning of clean code
