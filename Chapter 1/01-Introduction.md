@@ -1,9 +1,12 @@
 # Chapter 1 Introduction, Code Formatting, and Tools
 
-* Concepts of Clean Code - The main go of this chapter is to show that Clean Code is a necessity - Without quality code, the project will face perils of failing due to an accumulation of  technical debit
+The main go of this chapter is to show what Clean Code is and its need to produce quality code. Without quality code, the project will face perils of failing due to the accumulation of technical debit.
 
-  * The concepts of formatting and documenting the code play a fundamental role in keeping the code base maintainable and workable
-
+To produce quality code, the concepts of formatting and documenting the code as a continuous task play a fundamental role in keeping code base maintainable and workable.
+  
+Given the importance of the continuous task of keeping the code aligned to a reference, in this chapter will show the use of automated tools to make our work easier.
+  
+* 
 <!--
 1. perils of failing: Potencial dangers, negative consequences that may arise
 -->
