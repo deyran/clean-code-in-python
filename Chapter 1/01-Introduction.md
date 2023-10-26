@@ -20,11 +20,13 @@ As a developers, we spend more time reading code than writing it. That's why Cle
 
 By the end of this book, you will come up with own definition of Clean Code.
 
-## The importance of having clean code
+## The importance of having clean code - 3-5
 ## Some exceptions
 
 <!--
 # Chapter 1 Introduction, Code Formatting, and Tools
+## The importance of having clean code - 3-5
+
 ## Introduction - 2
 ## The meaning of Clean Code - 2-3
 -->
