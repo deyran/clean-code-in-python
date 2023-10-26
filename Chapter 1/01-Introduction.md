@@ -12,11 +12,19 @@ In the first two sections we will understand what Clean Code is and its importan
 
 There are rules that allow to maintaining  good code quality, but there are also exceptions. The rules cannot be applied everywhere, identify these types of situations will be discussed.
 
-## The meaning of clean code
+## The meaning of Clean Code
+
+In this book you won't find a sole or a strict definition of Clean Code. But when we, as developers, write code, it's not just for the machine to read and execute our programs, we write code for other developers to read as well.
+
+As a developers, we spend more time reading code than writing it. That's why Clean Code shows how to produce quality code, to communicate ours ideas to other developers. 
+
+By the end of this book, you will come up with own definition of Clean Code.
+
 ## The importance of having clean code
 ## Some exceptions
 
 <!--
 # Chapter 1 Introduction, Code Formatting, and Tools
 ## Introduction - 2
+## The meaning of Clean Code - 2-3
 -->
